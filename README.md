@@ -29,7 +29,7 @@ Multiplication
 Division "
 
 # Virtual machine for SIC
-The SIC computer architecture has only one instruction:
+" The SIC computer architecture has only one instruction:
 SBN A, B, C
 .
 SBN
