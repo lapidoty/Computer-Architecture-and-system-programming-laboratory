@@ -1,22 +1,22 @@
 # Lab Sessions
 
-1	    Rudimentary C programming, make files
+#1	    Rudimentary C programming, make files
 
-2	    C programming - pointers, function pointers and simple data structures
+#2	    C programming - pointers, function pointers and simple data structures
 
-3	   C programming - pointers, function pointers and simple data structures
+#3	   C programming - pointers, function pointers and simple data structures
 
-4	    System Calls
+#4	    System Calls
 
-5	    I/O Redirection and Pipes
+#5	    I/O Redirection and Pipes
 
-6	    Command Interpreter (Shell)
+#6	    Command Interpreter (Shell)
 
-7	    ELF - Introduction
+#7	    ELF - Introduction
 
-8	    ELF - Basic manipulation
+#8	    ELF - Basic manipulation
 
-9	    TCP/IP
+#9	    TCP/IP
 
 # Compute Complex Roots
 " In this assignment, you shall write a program in x86 assembly language, to
