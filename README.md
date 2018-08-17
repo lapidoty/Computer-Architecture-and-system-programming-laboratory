@@ -1,4 +1,4 @@
-# Lab Sessions
+# Lab Sessions - C
 
 #1	    Rudimentary C programming, make files
 
@@ -18,7 +18,7 @@
 
 #9	    TCP/IP
 
-# Compute Complex Roots
+# Compute Complex Roots - Assembly x87+x86
 " In this assignment, you shall write a program in x86 assembly language, to
 find a single root of a polynomial of
 complex
@@ -31,7 +31,7 @@ complex numbers
 representation for complex numbers and the functions defined over them
 using support for floating-point numbers in the x87 subsystem. "
 
-# Arbitrary Precision Calculator for Big Numbers
+# Arbitrary Precision Calculator for Big Numbers - Assembly x86 + C
 
 " In this assignment you shall write a postfix-based calculator for integer arith-
 metic, somewhat similar to the dc program on Unix/Linux (read over the man page for dc).
@@ -48,7 +48,7 @@ Multiplication
 •
 Division "
 
-# Virtual machine for SIC
+# Virtual machine for SIC  - Assembly x86
 " The SIC computer architecture has only one instruction:
 SBN A, B, C
 .
